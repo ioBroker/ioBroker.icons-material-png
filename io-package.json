@@ -1,7 +1,7 @@
 {
     "common": {
         "name":         "icons-material-png",
-        "version":      "0.1.0",
+        "version":      "0.1.1",
         "title":        "Material google design icons as PNG",
         "desc":         {
             "en": "Icon set for visualisation as PNG from google.",
@@ -22,8 +22,8 @@
         "enabled":      true,
         "onlyWWW":      true,
         "singleton":    true,
-        "localLink":    "http://%ip%:%web_port%/icons-material-png/index.html",
-		"type":         "visualisation",
+        "localLink":    "%web_protocol%://%ip%:%web_port%/icons-material-png/index.html",
+		"type":         "vis",
         "license":      "CC-BY"
     },
     "native": {

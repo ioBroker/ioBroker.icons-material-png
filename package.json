@@ -1,7 +1,7 @@
 {
   "name": "iobroker.icons-material-png",
   "description": "Icon set for visualisation as PNG from google.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "bluefox <bluefox@ccu.io>",
   "contributors": [
     "bluefox <bluefox@ccu.io>"
